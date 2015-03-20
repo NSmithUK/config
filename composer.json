@@ -1,5 +1,5 @@
 {
-    "name": "noodlehaus/config",
+    "name": "NSmithUK/config",
     "type": "library",
     "description": "Lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files",
     "keywords": ["configuration", "config", "json", "yaml", "yml", "ini", "xml", "unframework", "microphp"],
